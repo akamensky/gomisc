@@ -1,1 +1,1 @@
-# gomisc
+# A collection of helper packages for Golang
